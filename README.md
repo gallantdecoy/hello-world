@@ -1,2 +1,4 @@
 # hello-world
-first project
+This project has been taken to learn stuff about github.
+Hope you can relate.
+
